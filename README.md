@@ -2,8 +2,6 @@
 
 I'm Ricardo, an Electrical Engineer based in Brazil.
 
-Throughout university, I've worked on different engineering projects involving prototype development, instrumentation, automation, electrical design, and data-driven solutions.
-
 - 🔭 I'm currently developing the next iteration of my WorCAP 2026 rainfall forecasting project, which finished, with my team, in the **Top 10** of the hackathon. I'm now extending the model, improving its reproducibility, and developing it beyond the original competition submission.
 
 - ✈️ Also, I'm really interested in complex engineering systems, product development, embedded systems, and multidisciplinary engineering.
@@ -14,7 +12,7 @@ Throughout university, I've worked on different engineering projects involving p
 
 - Electrical Engineering
 - Electronics & Instrumentation
-- Embedded Systems / ESP32
+- Embedded Systems
 - Python
 - Data Analysis & Machine Learning
 - Automation & Control
